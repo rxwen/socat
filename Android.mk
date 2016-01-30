@@ -69,7 +69,6 @@ LOCAL_SRC_FILES := \
 	xio-sctp.c \
 	filan.c \
 	openpty.c
-
 	#filan_main.c \
 	#procan_main.c \
 	#procan-cdefs.c \
